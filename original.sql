@@ -1,4 +1,4 @@
--- Original SQL query (as in the interview question file).
+-- Original SQL query (as in the interview questions file).
 SELECT Jobs.id AS `Jobs__id`,
 Jobs.name AS `Jobs__name`,
 Jobs.media_id AS `Jobs__media_id`,
